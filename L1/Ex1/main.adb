@@ -7,7 +7,7 @@ procedure Main is
 	N : Positive;
 	Factor : Positive;
 begin
-	N := 21;
+	N := 41;
 	Smallest_Factor(N, Factor);
 	Put(Factor);
 end Main;
