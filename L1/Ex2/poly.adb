@@ -1,5 +1,4 @@
 package body Poly with SPARK_Mode is
-
    function Horner (X : Integer; A : Vector) return Integer is
       Horner : Integer := 0;
       Natural : Integer := 0 with Ghost;
