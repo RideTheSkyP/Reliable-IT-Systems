@@ -1,0 +1,3 @@
+project ex3 is
+	for Main use ("main.adb");
+end ex3;
